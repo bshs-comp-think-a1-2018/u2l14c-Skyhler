@@ -1,0 +1,34 @@
+body {
+  background:backgrounds.png;
+  background-color:p;
+  border:solid;
+  border-color:black;
+}
+p {
+  color: deeppink;
+  text-align:center;
+}
+h1 {
+  font-weight: bold;
+  color:deeppink;
+  font-family:monospace;
+  text-align:center;
+}
+h4 {
+  color:rgb(247, 136, 225);
+  text-align:center;
+}
+li {
+  color:black;
+  text-align: center;
+}
+img {
+  background-color:rgb(160, 160, 152);
+  border:solid;
+  border-color:rgb(219, 43, 43);
+  text-align:center;
+  image-resolution:
+}
+ul {
+  text-align: center;
+}
